@@ -1,5 +1,8 @@
 # azure-data-factory-monitoring-project
 
+![image](https://github.com/user-attachments/assets/a5ec61c5-465f-4310-a580-14b6442008f5)
+
+
 # Azure Data Factory - Monitoramento de Recursos e Custos 🚀
 
 ## 📚 Descrição do Projeto
